@@ -18,7 +18,7 @@ public class UtilityApiTest {
 		String body = "★★★test★★★ body=There you go.. You got an email.. Let's understand details on how Spring MVC works -- By sangbinlee999";
 		// String toAddr = "lsv400@naver.com";
 		String[] toAddrs = new String[] { "lsv400@naver.com" };
-		// String[] toAddrs = new String[]{"lsv400@naver.com",
+		// String[] toAddrs = new String[]{"lsv400@naver.com",lsv400@daum.net
 		// "sangbinlee9@gmail.com", "sh4014@hanmail.net", "shamma88@naver.com"};
 		String[] toCc = new String[] { "lsv400@naver.com", "sangbinlee9@gmail.com" };
 		String[] toBcc = new String[] { "sh4014@hanmail.net", "shamma88@naver.com" };
